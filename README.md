@@ -53,4 +53,17 @@ Estudando e aperfeiçoando minhas habilidades em diversas linguagens e ferrament
 
 ## Como me encontrar
 
-[![Gmail]()
+<p>
+  <a href="https://www.linkedin.com/in/[meu usuario]" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn logo"/>
+  </a>&nbsp;
+  
+  <a href="mailto:jp4327844@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail logo"/>
+  </a>&nbsp;
+  
+  <a href="https://github.com/joaopaulofelixviana" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub logo"/>
+  </a>&nbsp;
+</p>
+

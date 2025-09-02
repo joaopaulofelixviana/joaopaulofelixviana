@@ -47,9 +47,13 @@ Estudando e aperfeiçoando minhas habilidades em diversas linguagens e ferrament
 
 ## 📈 Estatísticas do GitHub
 
-![João Paulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopaulofelixviana&show_icons=true&theme=github_dark&hide_border=true)
+<div align="center" style="display: flex; gap: 40px;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofelixviana&layout=compact&theme=github_dark&hide_border=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulofelixviana&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofelixviana&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas"/>
+
+</div>
 
 ## Como me encontrar
 

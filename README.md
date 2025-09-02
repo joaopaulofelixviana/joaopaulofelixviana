@@ -50,7 +50,6 @@ Estudando e aperfeiçoando minhas habilidades em diversas linguagens e ferrament
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaopaulofelixviana&theme=dark&hide_border=false&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)
 ---
 
-
 ## 📈 Estatísticas do GitHub
 
 <div align="center" style="display: flex; gap: 40px;">

@@ -13,25 +13,27 @@ Estudando e aperfeiçoando minhas habilidades em diversas linguagens e ferrament
 - Versionamento de API 
 
 ## Tecnologias que conheço
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />&nbsp;
+</p>
 
 ## Ferramentas e Plataformas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />&nbsp;
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="cypress logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />&nbsp;
+</p>
 
 ---
 

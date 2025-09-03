@@ -1,6 +1,6 @@
 # Olá! Eu sou o João Paulo 
 
-Desenvolvedor em formação — atualmente no 3º semestre do curso Técnico em Informática para Internet (SENAI/AL)  
+Desenvolvedor em formação — Atualmente no 3º semestre do curso Técnico em Informática para Internet (SENAI/AL)  
 Apaixonado por tecnologia, desenvolvimento web e resolução de problemas com código  
 Estudando e aperfeiçoando minhas habilidades em diversas linguagens e ferramentas 
 
@@ -36,14 +36,6 @@ Estudando e aperfeiçoando minhas habilidades em diversas linguagens e ferrament
 </p>
 
 ---
-
-## Projetos em Destaque
-
-- []() —
-- []() —
-- []() — 
-- []() — 
-- []() — 
 
 ## 🔥 GitHub Streak
 

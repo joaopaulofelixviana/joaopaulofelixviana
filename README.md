@@ -35,8 +35,6 @@ Estudando e aperfeiçoando minhas habilidades em diversas linguagens e ferrament
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />&nbsp;
 </p>
 
----
-
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaopaulofelixviana&theme=dark&hide_border=false&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)

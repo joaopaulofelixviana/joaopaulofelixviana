@@ -8,7 +8,6 @@ Estudando e aperfeiçoando minhas habilidades em diversas linguagens e ferrament
 
 - Docker & containers
 - Node.js e Express
-- Boas práticas com Git e GitHub
 - Testes com Cypress
 - Versionamento de API 
 

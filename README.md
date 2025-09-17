@@ -34,7 +34,7 @@ Estudando e aperfeiçoando minhas habilidades em diversas linguagens e ferrament
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />&nbsp;
 </p>
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center" style="display: flex; gap: 40px;">
 

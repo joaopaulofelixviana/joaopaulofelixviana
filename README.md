@@ -2,7 +2,7 @@
 
 Desenvolvedor em formação — Atualmente no 3º semestre do curso Técnico em Informática para Internet (SENAI/AL)  
 Gosto de tecnologia, desenvolvimento web e resolução de problemas com código 
-Estudando e aperfeiçoando minhas habilidades em diversas linguagens e ferramentas 
+Estudando e aperfeiçoando minhas habilidades emdiversas linguagens e ferramentas 
 
 ## O que estou aprendendo atualmente
 

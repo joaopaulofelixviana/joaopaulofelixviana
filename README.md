@@ -1,7 +1,7 @@
 # Olá! Eu sou o João Paulo 
 
 Desenvolvedor em formação — Atualmente no 3º semestre do curso Técnico em Informática para Internet (SENAI/AL)  
-Apaixonado por tecnologia, desenvolvimento web e resolução de problemas com código  
+Gosto de tecnologia, desenvolvimento web e resolução de problemas com código 
 Estudando e aperfeiçoando minhas habilidades em diversas linguagens e ferramentas 
 
 ## O que estou aprendendo atualmente

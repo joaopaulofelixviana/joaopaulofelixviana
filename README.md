@@ -37,7 +37,7 @@ Estudando e aperfeiçoando minhas habilidades emdiversas linguagens e ferramenta
 ## Estatísticas do GitHub
 
 <div align="center" style="display: flex; gap: 40px;">
-
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulofelixviana&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofelixviana&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas"/>

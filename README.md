@@ -38,31 +38,16 @@ Estudando e aperfeiçoando minhas habilidades emdiversas linguagens e ferramenta
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulofelixviana&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="&cache_seconds=86400app/api/top-langs/?username=joaopaulofelixviana&layout=compact&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=joaopaulofelixviana&theme=github-dark&hide_border=true"/>
-
-</div>
-
 ## Como me encontrar
 
-<p>
-  <a href="https://www.linkedin.com/in/[meu usuario]" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn logo"/>
-  </a>&nbsp;
-  
-  <a href="mailto:jp4327844@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail logo"/>
-  </a>&nbsp;
-  
-  <a href="https://github.com/joaopaulofelixviana" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub logo"/>
-  </a>&nbsp;
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-usuario">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  </a>
+  <a href="mailto:jp4327844@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  </a>
+  <a href="https://github.com/joaopaulofelixviana">
+    <img src="https://skillicons.dev/icons?i=github" height="55"/>
+  </a>
 </p>
-

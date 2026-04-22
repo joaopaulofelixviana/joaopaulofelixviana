@@ -1,46 +1,52 @@
 # Olá! Eu sou o João Paulo 
 
-Desenvolvedor em formação — Atualmente no 3º semestre do curso Técnico em Informática para Internet (SENAI/AL)  
 Gosto de tecnologia, desenvolvimento web e resolução de problemas com código 
 Estudando e aperfeiçoando minhas habilidades emdiversas linguagens e ferramentas 
 
-## O que estou aprendendo atualmente
+## 🚀 Front-End
 
-- Docker & containers
-- Node.js e Express
-- Testes com Cypress
-- Versionamento de API 
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
 
-## Tecnologias que conheço
-<p>
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />&nbsp;
-</p>
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
-## Ferramentas e Plataformas
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />&nbsp;
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="cypress logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />&nbsp;
-</p>
+</div>
 
-## Estatísticas do GitHub
+## ⚙️ Back-End
 
-<div align="center" style="display: flex; gap: 40px;">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulofelixviana&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub"/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulofelixviana&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas"/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulofelixviana&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="&cache_seconds=86400app/api/top-langs/?username=joaopaulofelixviana&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=joaopaulofelixviana&theme=github-dark&hide_border=true"/>
 
 </div>
 

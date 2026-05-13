@@ -37,17 +37,3 @@ Estudando e aperfeiçoando minhas habilidades emdiversas linguagens e ferramenta
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-
-## Como me encontrar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-  </a>
-  <a href="mailto:jp4327844@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-  </a>
-  <a href="https://github.com/joaopaulofelixviana">
-    <img src="https://skillicons.dev/icons?i=github" height="55"/>
-  </a>
-</p>
